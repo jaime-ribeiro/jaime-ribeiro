@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ignite Timer](https://github.com/jaime-ribeiro/02-ignite-timer)
 
-- 🌱 I’m currently learning **Elixir**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on [Buddy Match](https://github.com/rhpessoa/buddy-match)
 
